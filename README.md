@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naresh Sukhwal
 
-I'm a DevOps enthusiast and final-year B.Tech student with hands-on experience in **CI/CD pipelines**, **AWS**, **Terraform**, **Docker**, and **Kubernetes**. I've worked as a **DevOps Intern at Beesrt Technology**, where I contributed to automating deployments, optimizing infrastructure, and improving monitoring systems.
+I'm a DevOps enthusiast and final-year B.Tech student with hands-on experience in **CI/CD pipelines**, **AWS**, **Terraform**, **Docker**, and **Kubernetes**. I've worked as a **DevOps Intern at Beasnt Technology**, where I contributed to automating deployments, optimizing infrastructure, and improving monitoring systems.
 
 ## 🔧 What I'm Working On
 - Automating infrastructure with **Terraform and AWS CloudFormation**
@@ -28,10 +28,6 @@ I'm a DevOps enthusiast and final-year B.Tech student with hands-on experience i
 - Automated CI/CD pipeline for Node.js apps with Jenkins & Docker
 - Multi-stage GitHub Actions pipeline for Django deployment
 - Cloud infrastructure deployment using Terraform and AWS
-
-## 📊 GitHub Stats
-![Naresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nareshsukhwal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nareshsukhwal&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 - 📧 Email: nsukhwal1527@gmail.com
