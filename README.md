@@ -1,29 +1,39 @@
-# 👋 Hi, I'm Ravi Sukhwal
+# 👋 Hi, I'm Naresh Sukhwal
 
-I'm a Full Stack Developer with 2 years of experience working with **Spring Boot** and **React.js**. I enjoy building web applications and learning new tools that make development easier and faster. I’ve also worked with **CI/CD pipelines**, **Jenkins**, and **Nginx**.
+I'm a DevOps enthusiast and final-year B.Tech student with hands-on experience in **CI/CD pipelines**, **AWS**, **Terraform**, **Docker**, and **Kubernetes**. I've worked as a **DevOps Intern at Beesrt Technology**, where I contributed to automating deployments, optimizing infrastructure, and improving monitoring systems.
 
 ## 🔧 What I'm Working On
-- Improving my backend skills with Spring Boot
-- Creating clean and responsive UIs using React
-- Learning more about cloud deployment and automation
+- Automating infrastructure with **Terraform and AWS CloudFormation**
+- Building efficient CI/CD pipelines using **Jenkins** and **GitHub Actions**
+- Exploring container orchestration with **Kubernetes**
+- Enhancing system monitoring using **Prometheus and Grafana**
 
 ## 💬 You can ask me about
-- Java and Spring Boot
-- React.js basics and structure
-- CI/CD setup with Jenkins
+- AWS (EC2, EKS, S3, VPC)
+- Infrastructure as Code (Terraform, CloudFormation)
+- CI/CD tools like Jenkins and GitHub Actions
+- Docker & Kubernetes setup
 
 ## 🛠️ Skills
-- **Languages**: Java, JavaScript
-- **Frameworks**: Spring Boot, React.js
-- **Tools**: Git, Jenkins, Nginx, MySQL.
+- **Cloud Platforms**: AWS (EC2, EKS, S3, VPC)
+- **IaC Tools**: Terraform, CloudFormation
+- **DevOps Tools**: Jenkins, GitHub CI, GitHub Actions
+- **Containers**: Docker, Docker Compose, Kubernetes
+- **Scripting**: Bash, Python
+- **Monitoring**: Prometheus, Grafana
+- **Version Control**: Git, GitHub
+- **Databases**: MySQL
 
+## 🚀 Personal Projects
+- Automated CI/CD pipeline for Node.js apps with Jenkins & Docker
+- Multi-stage GitHub Actions pipeline for Django deployment
+- Cloud infrastructure deployment using Terraform and AWS
 
 ## 📊 GitHub Stats
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravisukhwal76&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravisukhwal76&layout=compact&theme=radical)
+![Naresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nareshsukhwal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nareshsukhwal&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
-- Email: ravisukhwal949@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/ravi-sukhwal)
-
----
+- 📧 Email: nsukhwal1527@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/nareshsukhwal)
+- 💻 [GitHub](https://github.com/nareshsukhwal)
